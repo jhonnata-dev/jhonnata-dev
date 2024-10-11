@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-###
 
-![Snake animation](https://github.com/jhonnata-dev/jhonnata-dev/blob/output/github-contribution-grid-snake.svg)
+
+###
