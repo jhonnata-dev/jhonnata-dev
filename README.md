@@ -1,4 +1,23 @@
-<h2 align="center">Hi👋! My name is Jhonnata</h2>
+<h2 align="center" class="slide-in">Hi👋! My name is Jhonnata</h2>
+
+<style>
+  .slide-in {
+    position: relative;
+    animation: slide-in 2s ease-in-out;
+  }
+
+  @keyframes slide-in {
+    from {
+      left: -100%;
+      opacity: 0;
+    }
+    to {
+      left: 0;
+      opacity: 1;
+    }
+  }
+</style>
+
 
 ###
 
