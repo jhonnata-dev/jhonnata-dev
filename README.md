@@ -36,8 +36,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Firebird_logo.svg/512px-Firebird_logo.svg.png" height="30" alt="firebird logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="sql server logo" />
   <img width="12" />
 </div>
